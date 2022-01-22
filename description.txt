@@ -1,0 +1,1 @@
+This mod permits joining teams automatically.

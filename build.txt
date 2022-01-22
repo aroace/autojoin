@@ -1,0 +1,3 @@
+displayName = Faye's Team Auto Join
+author = Faye
+version = 0.1
